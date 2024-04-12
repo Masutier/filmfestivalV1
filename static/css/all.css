@@ -30,6 +30,9 @@ body {
 .r {
     border-radius: 10px;
 }
+link {
+    display: block !important;
+}
 
 /* FONTS */
 
@@ -66,7 +69,7 @@ body {
     width: 100%;
 }
 .imgobj2 {
-    width: 80%;
+    width: 70%;
 }
 .imgbutt {
     width: 100%;
